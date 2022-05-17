@@ -10,8 +10,7 @@
   
   <p>
             <strong>
-               Myself , Nihal Parmar , sophomore at Dharmsinh Desai University , pursuing B. Tech in Information Technology . Inquisitive problem solving enthusiast with a strong foundation in data structures and algorithms.<br><br>
-              I have a passion for software development with a diverse skillset ranging from the MEARN stack to a stronghold on data structures and algorithms to solve real life problems.<br><br>
+               Myself , Nihal Parmar , sophomore at Dharmsinh Desai University , pursuing B. Tech in Information Technology . I have a passion for software development with a diverse skillset ranging from the MEARN stack to a stronghold on data structures and algorithms to solve real life problems.<br><br>
               Skilled in React , Angular , Express JS , Node JS , Next JS, Blockchain , Android Development with Kotlin, TypeScript ,Spring Framework , Hibernate , Jsp and Servlet , Java, Python , Java Script , Bootstrap, C and HTML5 and enhancing my skills in the field of Full Stack Development as well as Machine Learning. Looking forward to learn more skills in tech industry.<br><br>
                 Always passionate for new things to explore upon, looking for new opportunities to grow.
             </strong>
@@ -31,7 +30,13 @@
 - 💬  Feel free to reach out to me for any tech related stuff
   
 - 📫 How to reach me: itznihal143@gmail.com
+	
+- 🔗<a href="https://www.typescript.com/en/"> Portfolio	</a>
   
+<p align="center">
+  <img alt="Portfolio Banner" src="https://user-images.githubusercontent.com/83122808/168830223-27547e06-f59c-4096-9100-dfe1841827ac.png">
+</p>
+
   
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -162,6 +167,14 @@
   <a href="https://figma.com/" target="_blank"> 
     <img alt="figma" src="https://img.shields.io/badge/Figma-e04a34?style=for-the-badge&logo=Figma&logoColor=white"/>
   </a>
+	&emsp;
+  <a href="https://canva.com/" target="_blank"> 
+    <img alt="canva" src="https://img.shields.io/badge/Canva-3498db?style=for-the-badge&logo=Canva&logoColor=white"/>
+  </a>
+	&emsp;
+  <a href="https://docker.com/" target="_blank"> 
+    <img alt="docker" src="https://img.shields.io/badge/Docker-4481eb?style=for-the-badge&logo=Docker&logoColor=white"/>
+  </a>
      &emsp;
   <a href="https://androidstudio.com/" target="_blank"> 
     <img alt="Android Studio" src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
@@ -175,6 +188,7 @@
     <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=VSCode&logoColor=white"/>
   </a>
    
+	
 </p>
   
 
