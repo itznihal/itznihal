@@ -31,7 +31,7 @@
   
 - 📫 How to reach me: itznihal143@gmail.com
 	
-- 🔗<a href="https://www.typescript.com/en/"> Portfolio	</a>
+- 🔗<a href="https://nihalparmarportfolio.web.app/"> Portfolio	</a>
   
 <p align="center">
   <img alt="Portfolio Banner" src="https://user-images.githubusercontent.com/83122808/168830223-27547e06-f59c-4096-9100-dfe1841827ac.png">
