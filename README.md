@@ -2,7 +2,7 @@
     <img width="200" src="https://user-images.githubusercontent.com/83122808/161239037-11d83bda-4362-4d50-829f-c28f4d30f7ba.png">
 </p>
 
-<h1>  Heyy There !! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> ,  < Developers/ >!  I'm Nihal Parmar 👨‍💻</h1> 
+<h1>  Heyy There !! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px height=40px > ,  < Developers/ >!  I'm Nihal Parmar 👨‍💻</h1> 
 <p align='center'>
 </p>
 
@@ -17,7 +17,7 @@
         </p>
   
   
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 20px height=40px >&nbsp;***About me ....***
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -38,7 +38,7 @@
 </p>
 
   
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px height=40px> </h2>
 
   
 ### 🛠 Languages
@@ -212,13 +212,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itznihal&layout=compact)
 
   
-  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width = 20px height=40px> </h2>
   
   <p align="center">
 	<a href="mailto:itznihal143@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/itznihal"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/nihal-parmar-2924411b7/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/itznihal143"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/itz______nihal"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://www.youtube.com/channel/UCn6WuSllSnA96o1likEaZRA/videos"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
