@@ -33,10 +33,6 @@
 	
 - 🔗<a href="https://nihalparmarportfolio.web.app/"> Portfolio	</a>
   
-<p align="center">
-  <img alt="Portfolio Banner" src="https://user-images.githubusercontent.com/83122808/168830223-27547e06-f59c-4096-9100-dfe1841827ac.png">
-</p>
-
   
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px height=40px> </h2>
 
@@ -191,26 +187,6 @@
 	
 </p>
   
-
-  
-  [![ Nihal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itznihal&theme=tokyonight)](https://git.io/praveenscience)
- 
-  
-  
-<h2>⚙️  GitHub Analytics</h2>
-
-<div>
-
-  
-  <p align="center">
- <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itznihal" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=itznihal&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itznihal&layout=compact)
-
   
   <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width = 20px height=40px> </h2>
   
