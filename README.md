@@ -2,68 +2,67 @@
   <img width="200" src="https://user-images.githubusercontent.com/83122808/161239037-11d83bda-4362-4d50-829f-c28f4d30f7ba.png">
 </p>
 
-<h1 align="center"> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nihal Parmar 👨‍💻 </h1>
+<h1 align="center">Hi 👋, I'm Nihal Parmar</h1>
 
 <p align="center">
-  <strong>🚀 Software Engineer | Backend & Full-Stack Developer | System Design Enthusiast</strong>
+  <strong>Software Engineer | Backend & Distributed Systems | GenAI </strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/itznihal">
-    <img src="https://img.shields.io/github/followers/itznihal?label=Follow&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/itznihal?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/nihal-parmar-2924411b7/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:itznihal143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://nihalparmarportfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?&style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://leetcode.com/itznihal/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel" />
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 💼 Software Engineer at **Saleshandy** (Previously **Crest Data Systems**)  
-- 🔭 Building **scalable backend systems**, distributed pipelines & high-performance applications  
-- ⚡ Passionate about **System Design, Cloud Deployments (AWS, Docker, K8s), and Problem Solving**  
-- 🌱 Constantly learning **advanced DSA, microservices & AI-powered systems**  
-- 👯 Open to collaborate on **innovative open-source projects**  
-- 📫 Reach me at **itznihal143@gmail.com**  
+## 🧑‍💻 About Me
+
+- Backend-focused engineer with **3+ years of experience** building scalable, high-throughput systems  
+- Experienced in **distributed architectures, async processing, and queue-based systems**  
+- Building **LLM-driven pipelines and AI-powered systems** for real-world applications  
+- Strong focus on **system design, performance optimization, and reliability**  
+- Passionate about solving **complex engineering problems at scale**
 
 ---
 
-### 🛠 Tech Stack  
+## ⚙️ Tech Stack
 
-#### ⚡ Languages  
-`JavaScript` • `TypeScript` • `SQL`  
+### 🚀 Backend & Systems  
+`Node.js` • `TypeScript` • `NestJS` • `Express` • `Microservices` • `Kafka` • `BullMQ` • `Redis`
 
-#### ⚡ Frameworks & Tools  
-`React.js` • `Next.js` • `Node.js` • `NestJS` • `Express` • `Kafka` • `BullMQ` • `Redis`  
+### 🌐 Frontend  
+`React.js` • `Next.js` • `HTML` • `CSS`
 
-#### ⚡ Databases & Cloud  
-`MySQL` • `MongoDB` • `AstraDB` • `Redis` • `AWS (EC2, S3, IAM, VPC)` • `Docker` • `Kubernetes`  
+### 🧠 GenAI / LLM  
+`LLM Integrations` • `RAG Pipelines` • `Ontology` • `AI Workflows`
 
-#### ⚡ Monitoring & DevOps  
-`Grafana` • `Prometheus` • `JMeter` • `GitHub Actions` • `CI/CD`  
+### ☁️ Cloud & DevOps  
+`AWS (EC2, S3, IAM, VPC, Lambda)` • `Docker` • `Kubernetes` • `CI/CD`
 
----
-
-### 🔬 Projects  
-
-- **Organization Assistant (AI RAG-based support bot)** – Node.js, React, AstraDB, OpenAI  
-- **BestBid – Auction Platform** – Full-stack auction app with bidding, payments & auth  
-- **FitBit – Workout Assistant** – Schedule-based fitness tracker with recommendations  
-- **Covid Guide** – API-based pandemic tracker with caching & visualizations  
+### 📊 Databases & Monitoring  
+`PostgreSQL` • `MongoDB` • `MySQL` • `Grafana` • `Prometheus` • `JMeter`
 
 ---
 
-### 📊 GitHub Stats  
+## 🔬 Projects
+
+- **AI RAG Assistant** – Built LLM-powered support system using vector search and document pipelines  
+- **BestBid – Auction Platform** – Full-stack auction system with payments, auth, and real-time bidding  
+- **FitBit – Workout Assistant** – Schedule-based fitness system with recommendation logic  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=itznihal&show_icons=true&theme=radical&hide_border=true" />
@@ -72,15 +71,14 @@
 
 ---
 
-### 🤝 Connect With Me  
+## 🤝 Connect With Me  
+
 <p align="center">
-	<a href="mailto:itznihal143@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/itznihal"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/nihal-parmar-2924411b7/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/itz______nihal"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UCn6WuSllSnA96o1likEaZRA/videos"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	<a href="mailto:itznihal143@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/></a>
+	<a href="https://github.com/itznihal"><img src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/nihal-parmar-2924411b7/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
 </p>
 
 ---
 
-<h4 align="center">✨ Thanks for visiting my profile – Keep Coding & Keep Growing! ✨</h4>
+<h4 align="center">⚡ Building scalable systems & AI-driven products</h4>
